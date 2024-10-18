@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-10-18T00:51:24.571Z",
+  "date": "2024-10-18T12:48:27.774Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -6990,9 +6990,9 @@
       ],
       "crawled": "https://tc39.es/ecma262/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 17 Oct 2024 23:27:47 GMT"
+        "lastModified": "Fri, 18 Oct 2024 03:59:01 GMT"
       },
-      "date": "17 October 2024",
+      "date": "18 October 2024",
       "links": "links/ecmascript.json",
       "dfns": "dfns/ecmascript.json",
       "headings": "headings/ecmascript.json",
@@ -8297,11 +8297,11 @@
       ],
       "crawled": "https://w3c.github.io/audio-session/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 16 Oct 2024 08:36:08 GMT"
+        "lastModified": "Fri, 18 Oct 2024 07:29:22 GMT"
       },
       "generator": "bikeshed",
-      "date": "16 October 2024",
-      "revision": "9ef2bd30c5cc718258a0b4d0b4bc465448771233",
+      "date": "18 October 2024",
+      "revision": "66d2ba3293490a0bda30cc3c15997e97f8131307",
       "links": "links/audio-session.json",
       "refs": "refs/audio-session.json",
       "events": "events/audio-session.json",
@@ -9693,11 +9693,11 @@
       ],
       "crawled": "https://webassembly.github.io/memory64/core/bikeshed/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 08 Oct 2024 16:35:24 GMT"
+        "lastModified": "Fri, 18 Oct 2024 10:20:17 GMT"
       },
       "generator": "bikeshed",
-      "date": "8 October 2024",
-      "revision": "aa4ff1141511c8ffc4bcadf1502957f3f6784e50",
+      "date": "18 October 2024",
+      "revision": "4056ff9582da36059c794ee54b3e825f76828bb1",
       "algorithms": "algorithms/wasm-core-2-fork-memory64.json",
       "links": "links/wasm-core-2-fork-memory64.json",
       "refs": "refs/wasm-core-2-fork-memory64.json",
@@ -14757,9 +14757,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc4120",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 11 Oct 2024 00:42:17 GMT"
+        "lastModified": "Fri, 18 Oct 2024 00:56:17 GMT"
       },
-      "date": "11 October 2024",
+      "date": "18 October 2024",
       "links": "links/rfc4120.json",
       "ids": "ids/rfc4120.json"
     },
@@ -14903,9 +14903,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc6386",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 11 Oct 2024 00:45:31 GMT"
+        "lastModified": "Fri, 18 Oct 2024 03:48:37 GMT"
       },
-      "date": "11 October 2024",
+      "date": "18 October 2024",
       "links": "links/rfc6386.json",
       "ids": "ids/rfc6386.json"
     },
@@ -14948,9 +14948,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc6454",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 11 Oct 2024 00:46:12 GMT"
+        "lastModified": "Fri, 18 Oct 2024 02:35:29 GMT"
       },
-      "date": "11 October 2024",
+      "date": "18 October 2024",
       "links": "links/rfc6454.json",
       "ids": "ids/rfc6454.json"
     },
@@ -14993,9 +14993,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc6797",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 11 Oct 2024 00:39:55 GMT"
+        "lastModified": "Thu, 17 Oct 2024 03:26:45 GMT"
       },
-      "date": "11 October 2024",
+      "date": "17 October 2024",
       "links": "links/rfc6797.json",
       "ids": "ids/rfc6797.json"
     },
@@ -15173,9 +15173,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7578",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 11 Oct 2024 00:46:23 GMT"
+        "lastModified": "Fri, 18 Oct 2024 05:42:54 GMT"
       },
-      "date": "11 October 2024",
+      "date": "18 October 2024",
       "links": "links/rfc7578.json",
       "ids": "ids/rfc7578.json"
     },
@@ -35872,10 +35872,10 @@
       ],
       "crawled": "https://gpuweb.github.io/gpuweb/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 09 Oct 2024 18:16:52 GMT"
+        "lastModified": "Fri, 18 Oct 2024 01:05:36 GMT"
       },
       "generator": "bikeshed",
-      "date": "9 October 2024",
+      "date": "18 October 2024",
       "algorithms": "algorithms/webgpu.json",
       "links": "links/webgpu.json",
       "refs": "refs/webgpu.json",
@@ -37148,10 +37148,10 @@
       ],
       "crawled": "https://gpuweb.github.io/gpuweb/wgsl/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 09 Oct 2024 18:16:52 GMT"
+        "lastModified": "Fri, 18 Oct 2024 01:05:36 GMT"
       },
       "generator": "bikeshed",
-      "date": "9 October 2024",
+      "date": "18 October 2024",
       "algorithms": "algorithms/WGSL.json",
       "links": "links/WGSL.json",
       "refs": "refs/WGSL.json",
